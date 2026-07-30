@@ -1,0 +1,64 @@
+pmid,age,sex,condition,eligibity,sample size,intervention sample size,Control sample size,drug,surgical,physical,psychological,educational,i_other,control,mortality,adverse effects,life impact,clinical,numeric,o_other
+41578585,27 to 93 years ,males and  females,upper digestive tract malignant tumors (esophageal and gastric cancers),"Inclusion: Histopathological confirmation of upper GI tract tumors and complete data  
+
+Exclusion: Postoperative recurrence, confirmed non-early cancer cases (via ultrasound or pathology), or tumor metastasis  
+
+","2359   
+",1184,1175,,,,,Standardized endoscopy training for physicians,standardized endoscopic imaging procedure,routine endoscopic procedure,,,Delivery of care: improved quality/standardization of endoscopic screening pathway,Early detection of upper GI cancer,"Overall early detection 21.36% vs 12.17%; early esophageal cancer 14.86% vs 7.93%, P=.019; early gastric cancer 25.78% vs 15.23%, P=.032",
+41589575,18–75 years,males and  females,Resected stage Ib–IIIa non-small cell lung cancer (NSCLC)," 
+
+Diagnosis of stage Ib–IIIa NSCLC  
+
+Undergone complete surgical resection  
+
+No prior neoadjuvant therapy  
+
+Provided written informed consent",334,167,167,"TCM Granules: Matched to 3 basic syndromes (qi deficiency, yin deficiency, or qi and yin deficiency); taken twice daily until the completion of chemotherapy  Chemotherapy (NP/NC regimen): Vinorelbine (25 mg/$m^2$ on days 1 and 8) plus cisplatin (75 mg/$m^2$) or carboplatin (AUC=5) every 4 weeks for 4 cycles",Surgical resection before adjuvant treatment,,,,Subsequent Traditional Chinese Medicine (STCM) therapy was used by nearly half of the patients during the follow-up period,"Adjuvant chemotherapy (NP/NC regimen) plus a matched placebo granule (meticulously formulated to match color, odor, taste, and appearance)","Overall survival assessed; median OS not reached in both groups; 5-year OS 76.15% vs 69.81%, P=.23","Chemotherapy-related symptoms
+(pain, vomiting, diarrhea, fatigue)
+were significantly lower in the TCM
+group  Reported incidence of Aes:
+0.57% (TCM group) vs. 4.02%
+(Control group), $P=.037$",,,,
+41591537,30–75 years,males and females,Advanced squamous non-small cell lung cancer (sqNSCLC), Confirmed unresectable recurrent or metastatic sqNSCLC  No prior systemic therapy for recurrent/metastatic disease  At least one measurable lesion according to RECIST v1.1  ECOG PS score of 0 or 1  Adequate organ function and bone marrow reserve,153,102,51,"IBI110 (anti-LAG-3 antibody) 200 mg or 600 mg Q3W 
+And Sintilimab (anti-PD-1 antibody) 200 mg Q3W",,,,,"Chemotherapy (pemetrexed, carboplatin, and paclitaxel) Q3W",Standard-of-care (SOC) — Sintilimab 200 mg plus chemotherapy (paclitaxel and carboplatin),200 mg group: 17.74 months    600 mg group: 15.90 months    SOC group: 17.68 months,"Grade $\ge 3$ TRAEs: 56.86% (200 mg group) vs. 29.41% (600 mg and SOC groups)  Common events: Anemia, decreased white blood cell count, and decreased neutrophil count",,Objective Response Rate (ORR)  Progression-Free Survival (PFS)  Duration of Response (DOR),"ORR: 73.91% (200 mg) vs. 61.70% (600 mg) vs. 77.55% (SOC)  Median PFS: 8.38 months (200 mg) vs. 7.16 months (SOC)  DOR (in LAG-3 $\ge 2\%$ subgroup): 13.73 months (200 mg) vs. 6.51 months (SOC), $P=0.037$",Promising efficacy signals were observed specifically in the LAG-3 expression $\ge 2\%$ subgroup receiving the 200 mg dose.
+41542812,18," Female, Male",General public / Citizens of 8 EU member states,"Adults (18+) recruited to be nationally representative for age, sex, and education",10027,,,,,,,,"Risk communication / Factorial design of message content, length, and format","Group 1 received ""no message"" (n=1644)",,,Increased awareness and recall of avoidable cancer risks,Engagement time (Reading time increased by ~4% for prevention messages and ~7% for images),"Recall: Mean risk factors recalled was 2.40 (p < 0.001 for intervention vs. control)    Recognition: Risk messages increased odds of recognizing all 16 factors (OR = 1.49, p < 0.001)",High levels of message comprehension and acceptability across all socioeconomic groups
+39615400,≥65 years ,male,Mixed tumor,"Hospitalised older adults with cancer (≥65 yrs, able to ambulate)",58,28,30,,,"Individualised multicomponent exercise (resistance + balance + walking, 2×/day for ~4–5 days)",,,,Standard hospital care,,,"Improved functional status (SPPB), reduced fatigue","Improved knee extension strength, physical performance",SPPB +1.92 (95% CI 0.80–3.07), Fatigue −26.5 (p<0.05)
+39608979,18–70,MALE,"Previously untreated advanced
+ non-squamous
+NSCLC without EGFR/ALK
+ Alterations","Eligible patients randomized in
+CameL phase 3 trial; first-line setting",412,205,207,"Camrelizumab + carboplatin 
++ pemetrexed;
+Camrelizumab 200 mg + 
+carboplatin AUC 5 + 
+pemetrexed 500 mg/m2 
+every 3 weeks for 4-6 
+cycles; maintenance
+ Camrelizumab + pemetrexed",,,,,"PD-1 immunotherapy 
+combined with 
+Platinum-pemetrexed
+Chemotherapy","Carboplatin + pemetrexed,
+ then pemetrexed
+maintenance;
+ crossover permitted 
+After progression","OS primary long-term 
+result: HR 0.74; adjusted 
+HR 0.62; 5-year OS 31.2%
+Vs 19.3%"," grade >=3 TRAEs 71.2% vs
+49.3% in table","Long-term survival and
+ Durable response benefit","PFS/OS and duration of
+Response","Median follow-up 65.2 months; OS HR 
+0.74 (95% CI 0.58-0.93), one-sided 
+P=0.0043; crossover-adjusted HR 0.62
+ (95% CI 0.49-0.79), P<0.0001; 5-year 
+OS 31.2% vs 19.3%",
+39608305,≥70 years ,Male ,Metastatic colorectal cancer (mCRC),"Older adults ≥70 years, progressed after oxaliplatin-based therapy",170,85,85,"FOLFIRI + aflibercept → maintenance 5-FU/LV + aflibercept
+
+Irinotecan 150–180 mg/m2; 5-FU 2000–2400 mg/m2; aflibercept 4 mg/kg",,,,,,FOLFIRI + aflibercept until progression,Median OS: 12.2 vs 11.5 months,"Grade ≥3 AEs: 72.9% vs 76.5%; asthenia, neutropenia",Reduced severe asthenia and SAEs in maintenance arm,PFS: 6.1 vs 5.5 months,HR 0.78 (95% CI 0.566–1.076),Non-inferior maintenance strategy
+39604957,18–66 years,Female, breast cancer (TNBC) ,"TNBC (ER <1%, PR <1%, HER2 negative)",22,11,11,Vinorelbine 25 mg/m² IV on days 1 and 8 of a 21-day cycle,,,,,Radiotherapy after chemotherapy,No adjuvant chemotherapy (standard follow-up + radiotherapy),3-year overall survival (OS):  90.0% (intervention) vs 61.4% (control),"Mostly mild (Grade 1–2): neutropenia, anemia, fatigue, nausea One Grade 3 febrile neutropenia No Grade 4 toxicity",,Distant disease-free survival (DDFS) Recurrence-free survival (RFS) Overall survival (OS),"3-year DDFS: 90.0% vs 42.4% (p = 0.022) 3-year RFS: 90.0% vs 42.4% (p = 0.022) 3-year OS: 90.0% vs 61.4% (p = 0.149, not significant","Vinorelbine showed improved survival outcomes with good safety, but results limited due to small sample size"
+39602807,20–80 years, male and female,colon cancer,"Histologically confirmed colon cancer
+Clinical stage T3–T4, N0–2, M0
+Age 20–80 years",853,426,427,, No-touch isolation technique,"
+
+",,,Adjuvant chemotherapy (capecitabine in stage III patients),Conventional surgical technique (compared with No-touch technique),6-year overall survival:  Conventional: 89.4% No-touch: 86.6%,Late complications:  Grade ≥2: ~5.9% vs 4.7% Grade ≥3: ~3.7% vs 2.6% No grade 4 events,,Disease-free survival (DFS) Relapse-free survival (RFS) Liver relapse-free survival (LRFS),"6-year DFS: 70.3% (Conventional) vs 69.4% (No-touch) HR 1.03, p = 0.60 6-year OS: 89.4% vs 86.6% 6-year RFS: 78.9% vs 75.0% 6-year LRFS: 85.1% vs 80.2%",No significant superiority of No-touch technique over conventional surgery
+39585696, 50–75 years,Female,colorectal cancer,"Aged 50–75,  not current on screening, no history of IBD or CRC",4002,2001,2001,,Mailed instructions and educational inserts,"Centralized mailed FIT kits, 2 reminder letters, and telephone navigation for abnormal results",,,,,,Advanced colorectal neoplasia detected in 29 intervention (1.4%) vs. 15 control (0.7%) participants,FIT positivity: 8.7% (Intervention) vs. 13.4% (Control),"CRC screening completion at 6 months: 30.0% vs. 9.7%; Difference: 20.29% (95% CI, 17.85–22.73); $P < .001$",Colonoscopy completion within 6 months of positive FIT: 68.8% vs. 44.4% ($P = .07$),12-month screening completion: 34.6% vs. 16.6%

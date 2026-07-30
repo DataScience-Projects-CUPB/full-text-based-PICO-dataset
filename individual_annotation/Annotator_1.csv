@@ -1,0 +1,244 @@
+pmid,age,sex,condition,eligibility,sample size,intervention sample size,Control sample size,drug,surgical,physical,psychological,educational,i_other,control,mortality,adverse effects,life impact,clinical,numeric,o_other
+41578585,27–93 years,both,"Upper gastrointestinal 
+malignant tumors,
+Including esophageal and
+ Gastric cancers","Patients undergoing endoscopic 
+evaluation in 4 tertiary hospitals; 
+upper GI malignant tumors identified 
+July 2022-July 2023",2359,1184,1175,,,,,"Standardized endoscopic
+imaging training and
+standardized image
+Acquisition/procedure","Standardized
+Endoscopic 
+imaging 
+Procedure","Routine
+Endoscopic
+Procedure",,,"Delivery of 
+care: improved
+Quality/
+standardization 
+of endoscopic 
+Screening pathway","Early detection
+of upper
+ GI cancer","Overall early detection 21.36% vs 
+12.17%; early esophageal cancer 
+14.86% vs 7.93%, P=.019; early 
+gastric cancer 25.78% vs 15.23%, 
+P=.032",
+41589575,<65,both,"Resected stage Ib-IIIa 
+non-small-cell lung cancer
+receiving adjuvant 
+Chemotherapy","Postoperative NSCLC patients
+ randomized across 7 centers; 
+No neoadjuvant therapy; stage Ib-IIIa",334,167,167,"Traditional Chinese
+ herbal granules
+added to adjuvant 
+Chemotherapy; Daily 
+herbal granules until 
+Chemotherapy completion","Surgical resection 
+before adjuvant 
+Treatment",,,,"Adjuvant chemotherapy plus
+TCM granules","Adjuvant chemotherapy
+ Plus placebo","Overall survival assessed;
+median OS not reached in
+both groups; 5-year OS
+ 76.15% vs 69.81%, P=.23",,"QoL noted from original
+ NALLC trial; updated
+paper focuses mainly on
+ DFS/OS","Disease-free survival, 
+Recurrence/metastasis","Median DFS 71.83 vs 43.60 months; 
+HR .86, 95% CI .64-1.15, P=.31; 
+2-year/5-year DFS 73.60%/50.16% vs 
+67.45%/44.08%, P=.23; stage Ib DFS
+ HR .51, P=.02; OS HR .34, P=.01",
+41591537,30-75,both,"Previously untreated 
+advanced squamous 
+Non-small-cell lung cancer","Advanced sqNSCLC, treatment-naive; 
+LAG-3 expression assessed by IHC
+ For subgroup analysis",153,102,51,"IBI110 plus sintilimab plus 
+chemotherapy;IBI110 200 
+mg or 600 mg + sintilimab 
+200 mg + chemotherapy",,,,,"Anti-LAG-3 immunotherapy 
+added to PD-1 inhibitor plus
+ Chemotherapy","Sintilimab plus 
+chemotherapy 
+Standard-of-care","OS assessed; 
+no significant OS 
+Difference overall","Grade >=3 treatment-related AEs 
+higher with IBI110 200 mg combination
+ Vs SOC: 56.86% vs 29.41%; mainly
+ Controllable hematologic toxicities","Treatment response and
+ disease-control impact;
+ biomarker-defined 
+Subgroup benefit","ORR, PFS, DOR; 
+LAG-3 biomarker response","Intervention groups recalled more risk 
+factors than no-message control 
+(all P<0.001). Mean risk factors
+ recalled overall: 2.40 (SD 1.72; 
+Range 0–14). Inclusion of risk information
+ increased recall (ANOVA P<0.001). 
+Prevention-message length had no
+ effect (P=0.943). Text with images did
+ not significantly improve recall versus
+ text-only (P=0.11). Recognition of all 
+16 risk factors: 11% overall; 
+risk message OR=1.49, 95% 
+CI 1.29–1.73, P<0.001.","Primary outcome: awareness/free recall 
+of 16 avoidable cancer risks; secondary
+ outcomes: recognition of risk factors,
+ Time spent viewing messages, 
+Message comprehension and acceptability"
+41542812,18,both,"General adult population from
+ eight EU member states; 
+cancer prevention/risk-
+awareness study, not a 
+Patient disease cohort","Adults recruited through an online 
+research agency to be nationally 
+representative for age, sex and 
+education in eight EU countries; 
+educational level used as 
+Socioeconomic proxy",10027,8383,1644,,,,,"ECAC5 educational/risk 
+communication messages:
+ 10 formats varying by
+ cancer risk information 
+present/absent, 
+preventive-action message
+ length (short/long/absent),
+ and format (text-only/text 
+With images)","Cancer-prevention 
+Communication intervention",No message,,,"Awareness of avoidable 
+cancer risks; 
+equitable communication 
+Across education groups",,"Mean number of risks recalled 2.40 
+(SD 1.72; range 0-14); recall highest 
+when messages included risk 
+information; images and message
+ Length had no significant impact",
+39615400, >=65,,CANCER,"Patients aged >=65 recruited on 
+admission to Medical Oncology
+Department",58,28,30,,,"Individualized multicomponent 
+Exercise training twice daily for
+ 5 days",,,"Multicomponent exercise
+Program
+ during hospitalization",Standard hospital care,,,"Improved functional
+ability And reduced
+ Fatigue","SPPB, knee extension 
+Strength, fatigue","SPPB between-group difference 1.92
+ (95% CI 0.80-3.07); knee extension 
+strength 7.72 (95% CI 1.83-13.8);
+ Fatigue -26.5 (95% CI -38.6 to -13.9)",
+39608979,18–70,male,"Previously untreated advanced
+ non-squamous
+NSCLC without EGFR/ALK
+ Alterations","Eligible patients randomized in
+CameL phase 3 trial; first-line setting",412,205,207,"Camrelizumab + carboplatin 
++ pemetrexed;
+Camrelizumab 200 mg + 
+carboplatin AUC 5 + 
+pemetrexed 500 mg/m2 
+every 3 weeks for 4-6 
+cycles; maintenance
+ Camrelizumab + pemetrexed",,,,,"PD-1 immunotherapy 
+combined with 
+Platinum-pemetrexed
+Chemotherapy","Carboplatin + pemetrexed,
+ then pemetrexed
+maintenance;
+ crossover permitted 
+After progression","OS primary long-term 
+result: HR 0.74; adjusted 
+HR 0.62; 5-year OS 31.2%
+Vs 19.3%"," grade >=3 TRAEs 71.2% vs
+49.3% in table","Long-term survival and
+ Durable response benefit","PFS/OS and duration of
+Response","Median follow-up 65.2 months; OS HR 
+0.74 (95% CI 0.58-0.93), one-sided 
+P=0.0043; crossover-adjusted HR 0.62
+ (95% CI 0.49-0.79), P<0.0001; 5-year 
+OS 31.2% vs 19.3%",
+39608305,>=70,male ,Metastatic colorectal cancer,"Patients aged >=70 with mCRC 
+Previously failed oxaliplatin-
+fluoropyrimidine; randomized 
+after/for second-line FOLFIRI-
+Aflibercept strategy",170,85,85,"5-FU/LV-aflibercept
+ maintenance 
+after FOLFIRI-aflibercept
+ Induction;
+FOLFIRI-aflibercept for 6 
+cycles then 5-FU/LV-
+aflibercept maintenance; 
+FOLFIRI dose reduced after
+ 35 patients due to toxicity",,,,,"Maintenance de-escalation
+ Strategy","FOLFIRI-aflibercept 
+Continued until progression","OS secondary endpoint
+ Assessed","All patients had >=1 AE; during 
+maintenance 72.9% arm A and 
+76.5% arm B experienced AEs","Treatment tolerability 
+and older-adult 
+vulnerability assessed 
+(VES-13)","Progression-free survival,
+ Response, safety","Non-inferiority endpoint PFS; baseline 
+median age 74 vs 73; AE during
+ maintenance 72.9% vs 76.5%; 
+full PFS values should be checked in 
+Article tables",
+39604957,,female ,Breast cancer ,"Breast cancer patients recruited from
+ two referral centers; completed CAM
+ And QOL survey",180,72,108,"Complementary and 
+Alternative medicine use;
+Any CAM use at least once
+ after breast cancer 
+diagnosis; common CAM: 
+special food, herbal teas,
+Supplements, spiritual healing",,,"Spiritual healing
+Included among CAM types",,CAM exposure/use,No CAM use,,"Potential disclosure/safety issue:
+ only one in four CAM users 
+disclosed CAM use to physicians","Quality of life assessed 
+by Arabic FACT-B; 
+no significant 
+association between
+ CAM use and QOL","CAM prevalence and
+Correlates","CAM prevalence 40%; CAM negatively
+ associated with age OR 0.96
+ (95% CI 0.92-0.99); philanthropic
+ hospital OR 0.13 (0.05-0.35); 
+Advanced stage OR 4.20 (1.65-10.69)",
+39602807,20-80 ,,"colon cancer
+","Patients randomized in JCOG1006
+ to open resection using conventional 
+Or no-touch isolation technique",853,427,427,,"No-touch isolation 
+technique for colon
+ Cancer resection",,,,"No-touch surgical 
+Isolation technique","Conventional surgical
+Technique","6-year OS 86.6% no-touch
+ vs 89.4% conventional;
+ HR 1.276 (95% CI 0.902-
+1.807)",,,"Disease-free survival, 
+relapse-free survival, 
+Liver relapse-free survival","6-year DFS 69.4% no-touch vs 70.3% 
+conventional; HR 1.030 
+(95% CI 0.813-1.304), 
+one-sided P=0.60; 6-year RFS 75.0% 
+Vs 78.9%, HR 1.209",
+39585696,50-75,"both
+","colorectal cancer 
+","Active individuals aged 50-75 
+at average CRC risk and not 
+current with USPSTF-recommended 
+Screening",4002,2001,2001,,,,,"Mailed FIT outreach,
+ reminder letters, 
+and patient navigation
+ After abnormal FIT","Centralized CRC screening
+ Outreach + navigation",Usual visit-based care,,"Colonoscopy follow-up after positive
+ FIT monitored; 
+adverse events not highlighted","Screening delivery of 
+care; 
+increased screening 
+Completion","CRC screening completion,
+ colonoscopy after positive
+ FIT, advanced colorectal
+ Neoplasia detection","Screening completion 30.0% vs 9.7%;
+ difference 20.29 percentage points 
+(95% CI 17.85-22.73); colonoscopy 
+after positive FIT 68.8% vs 44.4%; 
+Advanced neoplasia 1.4% vs 0.7%",
